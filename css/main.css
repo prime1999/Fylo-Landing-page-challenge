@@ -844,6 +844,11 @@ video {
   padding-right: 3rem;
 }
 
+.px-32 {
+  padding-left: 8rem;
+  padding-right: 8rem;
+}
+
 .pt-32 {
   padding-top: 8rem;
 }
